@@ -1,0 +1,8 @@
+/node_modules
+/src/render/.umi
+/src/render/.umi-production
+/dist
+/src/render/.mfsu
+.idea/
+.DS_Store
+release/
